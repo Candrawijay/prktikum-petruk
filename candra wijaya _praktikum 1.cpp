@@ -23,4 +23,16 @@ int main(){
 	cin>>npm;
 	absen(name, npm);
 	return 0;
+	
+	
+// 	int n;
+// 	int arr[100];
+// 	cin>>n;
+// 	for(int a=0;a<n;a++){
+// 		cin>>arr[a];
+// 	}
+// 	for (int i=0;i<n;i++){
+// 		cout<<"nilai ke "<<i<<"adalah"<<arr[i]<<endl;
+// 	}
+
 }
